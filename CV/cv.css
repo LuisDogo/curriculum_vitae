@@ -7,4 +7,13 @@
   .double-column-list li {
     margin: 0; /* Remove default margin */
   }
-  
+
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.left-column, .right-column {
+    width: 72%; /* Adjust the width as needed */
+}
