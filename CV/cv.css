@@ -1,0 +1,10 @@
+.double-column-list ul {
+    columns: 2; /* Create two columns */
+    list-style-type: none; /* Remove list bullets */
+    padding: 0; /* Remove default padding */
+  }
+  
+  .double-column-list li {
+    margin: 0; /* Remove default margin */
+  }
+  
