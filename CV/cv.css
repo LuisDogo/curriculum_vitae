@@ -1,11 +1,11 @@
 .double-column-list ul {
-    columns: 2; /* Create two columns */
-    list-style-type: none; /* Remove list bullets */
-    padding: 0; /* Remove default padding */
+    columns: 2; 
+    list-style-type: none; 
+    padding: 0; 
   }
   
   .double-column-list li {
-    margin: 0; /* Remove default margin */
+    margin: 0;
   }
 
   .container {
@@ -15,5 +15,5 @@
 }
 
 .left-column, .right-column {
-    width: 72%; /* Adjust the width as needed */
+    width: 72%; 
 }
